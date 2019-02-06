@@ -1,2 +1,3 @@
-# simple-demo
-first repo
+#Simple example repository
+
+My first repo
